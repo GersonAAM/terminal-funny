@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="330" viewBox="0 0 680 330" font-family="Cascadia Mono, Consolas, monospace" font-size="14">
+  <rect width="680" height="330" rx="10" fill="#091C1A"/>
+  <path d="M0 10a10 10 0 0 1 10-10h660a10 10 0 0 1 10 10v26H0z" fill="#16453F"/>
+  <text x="16" y="23" fill="#F0DEBB" font-family="Segoe UI, sans-serif" font-size="13">Windows PowerShell — Lista 2 Bosque</text>
+  <text x="20" y="66" fill="#F0DEBB">PS C:\Users\tu&gt; <tspan fill="#D9B86C">Get-ChildItem</tspan> <tspan fill="#7A7A7A">-Name</tspan></text>
+  <text x="20" y="88" fill="#F0DEBB">Documentos</text>
+  <text x="20" y="110" fill="#F0DEBB">Proyectos</text>
+  <text x="20" y="132" fill="#F0DEBB">colores-terminal.bat</text>
+  <text x="20" y="164" fill="#F0DEBB">PS C:\Users\tu&gt; <tspan fill="#D9B86C">Write-Host</tspan> <tspan fill="#4FA39A">"Hola mundo"</tspan> <tspan fill="#7A7A7A">-ForegroundColor</tspan> Green</text>
+  <text x="20" y="186" fill="#59A87D">Hola mundo</text>
+  <text x="20" y="218" fill="#F0DEBB">PS C:\Users\tu&gt; <tspan fill="#D9B86C">Get-Item</tspan> noexiste.txt</text>
+  <text x="20" y="240" fill="#C24A6E">Get-Item : No se encuentra la ruta de acceso 'noexiste.txt'.</text>
+  <text x="20" y="262" fill="#F0DEBB">PS C:\Users\tu&gt; </text>
+  <rect x="157" y="249" width="9" height="17" fill="#59A87D"/>
+  <g transform="translate(20 284)">
+    <rect width="38" height="28" rx="4" fill="#F0DEBB"/>
+    <rect x="44" width="38" height="28" rx="4" fill="#59A87D"/>
+    <rect x="88" width="38" height="28" rx="4" fill="#16453F"/>
+    <rect x="132" width="38" height="28" rx="4" fill="#091C1A" stroke="#16453F"/>
+    <rect x="176" width="38" height="28" rx="4" fill="#541734"/>
+  </g>
+</svg>

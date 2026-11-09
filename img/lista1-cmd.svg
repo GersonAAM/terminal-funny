@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="330" viewBox="0 0 680 330" font-family="Cascadia Mono, Consolas, monospace" font-size="14">
+  <rect width="680" height="330" rx="10" fill="#82837E"/>
+  <path d="M0 10a10 10 0 0 1 10-10h660a10 10 0 0 1 10 10v26H0z" fill="#4A4B47"/>
+  <text x="16" y="23" fill="#E0E0E0" font-family="Segoe UI, sans-serif" font-size="13">Símbolo del sistema — Lista 1 Lima</text>
+  <text x="20" y="66" fill="#E0E0E0">Microsoft Windows [Versión 10.0.26200]</text>
+  <text x="20" y="98" fill="#E0E0E0">C:\Users\tu&gt;<tspan fill="#BFFA37">dir /b</tspan></text>
+  <text x="20" y="120" fill="#E0E0E0">Documentos</text>
+  <text x="20" y="142" fill="#E0E0E0">Proyectos</text>
+  <text x="20" y="164" fill="#E0E0E0">colores-terminal.bat</text>
+  <text x="20" y="196" fill="#E0E0E0">C:\Users\tu&gt;<tspan fill="#BFFA37">echo Hola mundo</tspan></text>
+  <text x="20" y="218" fill="#E0E0E0">Hola mundo</text>
+  <text x="20" y="250" fill="#E0E0E0">C:\Users\tu&gt;</text>
+  <rect x="128" y="237" width="9" height="17" fill="#BFFA37"/>
+  <g transform="translate(20 278)">
+    <rect width="38" height="28" rx="4" fill="#82837E" stroke="#4A4B47"/>
+    <rect x="44" width="38" height="28" rx="4" fill="#94B053"/>
+    <rect x="88" width="38" height="28" rx="4" fill="#BDEB07"/>
+    <rect x="132" width="38" height="28" rx="4" fill="#BFFA37"/>
+    <rect x="176" width="38" height="28" rx="4" fill="#E0E0E0"/>
+  </g>
+</svg>
